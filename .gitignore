@@ -1,0 +1,14 @@
+# MacOS sistem dosyaları
+.DS_Store
+
+# Derleme dosyaları
+build/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Visual Studio Artıkları (Silindiyse yine de ekleyelim)
+*.sln
+Debug/
+Release/
