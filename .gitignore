@@ -7,8 +7,9 @@ CMakeCache.txt
 CMakeFiles/
 cmake_install.cmake
 Makefile
-
+cmake-build-debug
 # Visual Studio Artıkları (Silindiyse yine de ekleyelim)
 *.sln
 Debug/
 Release/
+.idea/
